@@ -74,8 +74,8 @@ export function Footer() {
               <div className="space-y-3">
                 {[
                   { icon: Mail, label: "info@amisgroups.com", href: "mailto:info@amisgroups.com" },
-                  { icon: Phone, label: "077 003 1808", href: "tel:0770031808" },
-                  { icon: MapPin, label: "Main Street, Melbourne, Australia", href: "#" },
+                  { icon: Phone, label: "076 268 8365", href: "tel:0762688365" },
+                  { icon: MapPin, label: "179, Nagolla Rd, Matale, Sri Lanka", href: "https://maps.app.goo.gl/ETZy9MmNiKcEG47A8" },
                 ].map(({ icon: Icon, label, href }) => (
                   <motion.a
                     key={label}
