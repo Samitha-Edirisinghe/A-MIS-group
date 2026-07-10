@@ -13,7 +13,7 @@ const quickLinks = [
   { name: "Portfolio", href: "#/portfolio" },
   { name: "Careers", href: "#/careers" },
   { name: "FAQ", href: "#/faq" },
-  { name: "Contact Us", href: "#contact" },
+  { name: "Contact Us", href: "#/contact" },
 ];
 
 const services = [
